@@ -16,8 +16,8 @@ private_subnet1_name = ""
 private_subnet2_cidr = ""
 private_subnet2_name = ""
 
-igw_name = "Ontap-Demo-IGW"
-nat_name = "Ontap-Demo-NAT"
+igw_name = "Demo-IGW"
+nat_name = "Demo-NAT"
 
-public_RT = "Ontap-Demo-Public-RT"
-private_RT = "Ontap-Demo-Private-RT"
+public_RT = "Demo-Public-RT"
+private_RT = "Demo-Private-RT"
